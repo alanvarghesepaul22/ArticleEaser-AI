@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="Logo" className="w-36 md:w-44 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("")}
+          onClick={() => window.open("https://github.com/alanvarghesepaul22/ArticleEaser-AI/tree/main")}
           className="black_btn"
         >
           GitHub
